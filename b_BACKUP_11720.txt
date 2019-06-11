@@ -3,8 +3,11 @@
 local
 orgin add
 orgin2
+<<<<<<< HEAD
 7777
 7772
+=======
 6666
 888
 9999
+>>>>>>> origin/master
