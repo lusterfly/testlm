@@ -15,7 +15,7 @@ public class StatusEndPoint extends AbstractEndpoint<String> implements Applicat
 	public StatusEndPoint() {
 		super("status");
 	}
-    add func1
+    add func11
 	@Override
 	public String invoke() { //3  返回我们要监控的内容
 		StatusService statusService = context.getBean(StatusService.class);
