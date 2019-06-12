@@ -1,1 +1,1 @@
-add func1  local1
+add func1 remote
