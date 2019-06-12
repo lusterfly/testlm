@@ -3,9 +3,6 @@
 local
 orgin add
 orgin2
-7777
-7772
-6666
 888
 9999
 9992
@@ -14,3 +11,4 @@ orgin2
 99remote
 99remote2233
 lmbug2
+0612
