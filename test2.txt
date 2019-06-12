@@ -1,1 +1,2 @@
 add func1
+dd func2
