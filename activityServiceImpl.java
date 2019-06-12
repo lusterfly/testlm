@@ -48,7 +48,7 @@ public class StatusEndPoint extends AbstractEndpoint<String> implements Applicat
 		
 		return "The Current Status  is :"+statusService.getStatus();
 	}
-   add func23
+   add func231
 	@Override
 	public void setApplicationContext(ApplicationContext arg0) throws BeansException {
 		this.context = arg0;
